@@ -1,4 +1,4 @@
-# DiaMLP---Diabetes-Classification-with-Multilayer-Perceptron
+# DiaMLP---Diabetes-Classification-with-Multilayer-Perceptron/ANN
 Diabetes Classification using Multilayer Perceptron (MLP) is a binary classification problem where the goal is to predict whether a patient has diabetes (positive class) or not (negative class) based on a set of biomedical features or risk factors.
 Dataset:
 The dataset used for this task typically contains a set of input features (biomedical measurements) and a binary target variable (0 or 1, indicating non-diabetic or diabetic, respectively). Commonly, the dataset contains attributes such as glucose level, blood pressure, BMI (Body Mass Index), age, etc.
